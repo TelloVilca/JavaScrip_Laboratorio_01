@@ -1,0 +1,18 @@
+
+body{
+    background-color: lightslategray;
+}
+
+table, th, td{
+    margin: 50px auto;
+    border: 2px solid black;
+    padding: 10px;
+    color: bisque;
+}
+
+
+h3{
+    text-align: center;
+    padding-top: 30px;
+    color: burlywood;
+}
